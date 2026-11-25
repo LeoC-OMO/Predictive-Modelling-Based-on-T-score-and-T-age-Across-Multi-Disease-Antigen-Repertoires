@@ -4,7 +4,7 @@ This repository contains the source code files, training data and currently used
 # 1. Overview:
 The files "three_group_new_training.py", "disease_bin_new_train.py", "healthy_bin_train_new.py" and "subhealthy_bin_new_train.py" contains source codes of program used to train out the four different models.
 
-The folder "Data" contains a .rar file that holds all the training data used to train out the current models. The "models" folder contains a .rar file storing the four models currently in used.
+The folder "Data" contains a .rar file that holds all the training data used to train out the current models. The "models" folder contains a .rar file storing the four models currently in used. The "Verification" folder contains .rar file that stores all the data sets used for verification testing of the Prediction System.
 
 The files "append_header_to_csv.py", "extract_7k.py", "msdos_to_csv.py" and "pipeline_functions.py" are all files containing helper functions used in the complete flow of the pipeline.
 
